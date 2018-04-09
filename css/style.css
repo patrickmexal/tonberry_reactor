@@ -10,7 +10,7 @@
 
 .hover-underline-menu .menu a {
   color: #fefefe;
-  padding: 1.2rem 1.5rem;
+  padding: 1rem 1rem;
 }
 
 .hover-underline-menu .menu .underline-from-center {
@@ -146,4 +146,8 @@ body {
   to {
     transform: rotate(360deg);
   }
+}
+#Tonberry {
+  font-family: 'Meddon', cursive;
+  font-size: 1.2em;
 }
